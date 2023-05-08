@@ -1,6 +1,7 @@
 # Stage/vrije ruimte
 
-![header-6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b0a03bf3-5a4e-4373-86f2-e62033ba87a0/header-6.png)
+![header-6](https://user-images.githubusercontent.com/70703948/236922387-623721ca-282a-4e3c-8e75-57834fad85a9.png)
+
 
 Tijdens deze periode ga ik werken voor **Orderli 🎉. D**it is een QR-bestelplatform, eigenlijk een IT bedrijf binnen de horeca branch.
 
@@ -49,3 +50,6 @@ Leren welke tools je nodig hebt om een softwarebedrijf te runnen.
 **Als developer**: wil ik mijn kennis die ik heb opgedaan tijdens mijn stage toepassen voor de opdrachten. Ik zal veel leren over `Vue.js`, over de fundamenten van `JavaScript`, hoe je werk in een `divers` team van developers (frontend, backend, designers).
 
 **Op gebied van samenwerken**: hoe je samenwerkt voor een `Werkgever`, delen van mijn kennis, opnemen van kennis van mijn samenwerkingspartner.
+
+# Visualisatie
+![Versie 5](https://user-images.githubusercontent.com/70703948/236922452-b2fe7f24-651f-46a1-b281-a07593c799ee.png)
