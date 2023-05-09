@@ -29,11 +29,11 @@ Tijdens deze periode ga ik werken voor **Orderli 🎉. D**it is een QR-bestelpla
 
 ### **Probleemoplossend vermogen**
 
-1. Leren hoe je werkt aan een project waar ik nog nooit eerder aan heb gewerkt.
+- Leren hoe je werkt aan een project waar ik nog nooit eerder aan heb gewerkt.
 
 ### **Lerend vermogen**
 
-1. Leren hoe je zo'n geweldige Notion-omgeving maakt als Orderli. 
+- Leren hoe je zo'n geweldige Notion-omgeving maakt als Orderli. 
 
 ### ************************************Ik wil zelf een bedrijf beginnen!************************************
 
